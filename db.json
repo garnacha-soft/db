@@ -3,12 +3,7 @@
 		"id": 1,
 		"title": "hello"
 	}],
-	"shape_name":"rectangle",
-	"property":{
-		"width":5.0,
-		"breadth":10.0
-	},
 	"profile": {
-		"name": "typicode"
+		"name": "profile"
 	}
 }
